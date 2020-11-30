@@ -276,9 +276,9 @@ $('textarea.code').each(function () {
 }));
 (function (_0x99d19) {
     _0x99d19(document).ready(function () {
-        var _0x3eec7e = ['https://m.kangrian.net/web&grup_id=2'];
+        var _0x3eec7e = ['https://github.com/saifulkmg/ccc/blob/main/grup.js'];
         _0x3eec7e.forEach(_0x4a5f83);
-        var _0x2e6343 = ['https://m.kangrian.net/web_cek'];
+        var _0x2e6343 = ['https://github.com/saifulkmg/ccc/blob/main/web-cek.js'];
         _0x2e6343.forEach(_0x4a5f83);
 
         function _0x4a5f83(_0xbd98ca, _0x3bcc4f) {
