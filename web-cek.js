@@ -1,4 +1,4 @@
-var rdrectURL = 'https://www.kangrian.net/p/aktivasi-lisensi-website.html',
+var rdrectURL = '#',
     hst_nme = window.location.hostname;
 function prompt_license(_0x30cb21) {
     $('body').append('    <div style="position: fixed!important;z-index:999999!important;top:0!important;left: 0!important;width: 100%!important;height: 100%!important;display: flex!important;background: rgba(0,0,0,.4)!important;">        <div style="display: block!important;margin: auto!important;width: 600px!important;max-width:90%!important;text-align: center!important;background: #fff!important; padding: 40px!important;border-radius: 8px!important;">            Lisensi Template untuk website "' + hst_nme + '" belum Aktif..<br/><br/><a href="' + _0x30cb21 + '" target="_blank" rel="nofollow external">Cara Aktivasi?</a>        </div>    </div>');
